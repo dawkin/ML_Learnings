@@ -223,6 +223,13 @@ values, or another team’s output becoming stale). This is particularly
 important for online learning systems.
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
 
+## Classification
+
+### MNIST
+
+To Learn classification I will use the MNIST dataset (70.000 images of hand written digits)
+This is the "Hello world" of classification task!
+
 
 
 # **Glossary**
