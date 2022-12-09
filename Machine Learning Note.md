@@ -224,3 +224,8 @@ important for online learning systems.
 3. Retrain your models on a regular basis on fresh data (automate as much as possible).
 
 
+
+# **Glossary**
+Here is some words that were new to me and needed some more explaination
+
+- Tail heavy: Distribution of data which tail are not exponentially bounded
